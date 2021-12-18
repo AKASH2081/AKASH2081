@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @AKASH2081
-- 👀 I’m interested in learning interesting thigs   
+- 👀 I’m interested in learning interesting things   
 - 🌱 I’m currently learning data science
-- 💞️ I’m looking to collaborate on nothing
+- 💞️ I’m looking to collaborate on working
 - 📫 How to reach me on my whatsapp
 
 <!---
